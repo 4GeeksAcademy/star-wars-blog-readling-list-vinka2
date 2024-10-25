@@ -1,0 +1,25 @@
+.card-container {
+    display: flex;             
+    overflow-x: auto;         
+    padding: 10px;              
+}
+
+.card {
+    flex: 0 0 auto;             
+}
+
+.hover-button:hover {
+    background-color: #5598FF; 
+    color: white !important;
+    border: none !important;
+}
+
+.heart-hover-button {
+    color: #F8C000;
+}
+
+.heart-hover-button:hover {
+    background-color: #F8C000; 
+    color: black !important;
+    border: none !important;
+}
